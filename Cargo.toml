@@ -5,4 +5,7 @@ authors = ["Matheus Lessa <1696072+matheuslessarodrigues@users.noreply.github.co
 edition = "2018"
 description = "a simple 3d game framework"
 
+[lib]
+
+
 [dependencies]
