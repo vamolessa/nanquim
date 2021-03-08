@@ -1,0 +1,8 @@
+[package]
+name = "nanquim"
+version = "0.1.0"
+authors = ["Matheus Lessa <1696072+matheuslessarodrigues@users.noreply.github.com>"]
+edition = "2018"
+description = "a simple 3d game framework"
+
+[dependencies]
