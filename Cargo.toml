@@ -6,6 +6,7 @@ edition = "2018"
 description = "a simple 3d game framework"
 
 [lib]
-
+name = "nanquim"
+path = "src/lib.rs"
 
 [dependencies]
